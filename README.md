@@ -4,7 +4,7 @@
 
 &nbsp;
 
-CSS
+### CSS
 
 ```
 font-family: 'Gimhae Gaya';
@@ -12,7 +12,7 @@ font-family: 'Gimhae Gaya';
 
 &nbsp;
 
-link
+### link
 
 ```
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GimhaeGaya/GimhaeGaya.css" type="text/css"/>
@@ -20,7 +20,7 @@ link
 
 &nbsp;
 
-import
+### import
 
 ```
 @import url('https://cdn.jsdelivr.net/gh/fonts-archive/GimhaeGaya/GimhaeGaya.css');
@@ -28,7 +28,7 @@ import
 
 &nbsp;
 
-font-face
+### font-face
 
 ```
 @font-face {
@@ -51,4 +51,14 @@ font-face
          url('https://cdn.jsdelivr.net/gh/fonts-archive/GimhaeGaya/GimhaeGaya-Bold.otf') format('opentype'),
          url('https://cdn.jsdelivr.net/gh/fonts-archive/GimhaeGaya/GimhaeGaya-Bold.ttf') format('truetype');
 }
+```
+
+&nbsp;
+
+### 라이센스 본문
+
+```
+- 김해가야체 Regular, Bold의 모든 지적재산권을 포함한 모든 권리는 김해시에 있다. 
+- 유료로 판매하거나 어떠한 이유로든 복사 및 배포의 대가로 요금을 부과하거나 수령할 수 없다. 
+- 김해가야체 Regular, Bold는 어떠한 이유로든 김해시 이외에 임의로 수정, 편집 등을 할 수 없으며 배포되는 형태 그대로 사용해야 한다.
 ```
